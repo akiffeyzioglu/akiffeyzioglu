@@ -17,5 +17,6 @@
 <a href="https://medium.com/@akiffeyzioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akiffeyzioglu" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12851491/akif-f?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="akiffeyzioglu" height="30" width="30" /></a>
 <a href="https://codepen.io/akiffeyzioglu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="akiffeyzioglu" height="30" width="30" /></a>
+<a href="https://dev.to/akiff" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akiffeyzioglu" height="30" width="30" /></a>
 </p>
 
