@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akif FEYZİOĞLU</h1>
 <h3 align="center">A MIS Student</h3>
 
-- 🔭 My interests are Go, Docker and Linux. 
+- 🔭 My interests are Go,Python, Docker and Linux. 
 
 - 🏫 Third Year At **Gumushane University**
 
