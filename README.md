@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akif FEYZİOĞLU</h1>
 <h3 align="center">A MIS Student</h3>
 
-- 🔭 My interests are Go, Python, Docker and Linux. 
-
-- 🏫 Third Year At **Gumushane University**
-
-- 🌀 Languages and Tools:
-
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
