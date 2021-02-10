@@ -3,8 +3,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
