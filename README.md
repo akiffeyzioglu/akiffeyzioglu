@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://github.com/akiffeyzioglu">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akiffeyzioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiffeyzioglu&show_icons=true&locale=en&&theme=algolia" alt="MuratSs" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiffeyzioglu&show_icons=true&locale=en&&theme=algolia" alt="akiffeyzioglu" />
 </a>
 </p>
 
@@ -36,5 +36,3 @@
 <a href="https://linkedin.com/in/akiffeyzioglu"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@akiffeyzioglu/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/12851491/akif-f?tab=profile"><img src="https://img.shields.io/badge/-Akif F.-D14836?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="mailto:mafeyzioglu@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-</p>
