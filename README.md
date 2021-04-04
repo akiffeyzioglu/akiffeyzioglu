@@ -12,6 +12,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -20,6 +22,7 @@
 <a href="https://github.com/akiffeyzioglu">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akiffeyzioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akiffeyzioglu&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiffeyzioglu&theme=algolia" alt="akiffeyzioglu" />
 </a>
 </p>
 
