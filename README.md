@@ -22,13 +22,6 @@
 </a>
 </p>
 
-<p align="center"> 
-
-[![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blue)](https://findmentor.network/peer/akif-feyzioglu)
-<img src="https://komarev.com/ghpvc/?username=akiffeyzioglu&label=Profile%20views&color=0e75b6&style=flat" alt="akiffeyzioglu" />
-
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
