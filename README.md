@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-
+![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=gitlab)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
