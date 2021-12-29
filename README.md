@@ -29,7 +29,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://twitter.com/akiffeyzioglu"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/akiffeyzioglu"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@akiffeyzioglu/"><img src="https://img.shields.io/badge/medium-9146FF.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/12851491/akif-f?tab=profile"><img src="https://img.shields.io/badge/-Stack Overflow-D14836?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
