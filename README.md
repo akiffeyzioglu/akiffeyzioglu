@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akif FEYZİOĞLU</h1>
-<h3 align="center">Jr. DevOps Engineer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 ### 🛠 &nbsp;Tech Stack
 
