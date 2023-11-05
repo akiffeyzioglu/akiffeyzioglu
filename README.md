@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akif FEYZİOĞLU</h1>
+<h1 align="center">Hi 👋, I'm Akif</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 ### 🛠 &nbsp;Tech Stack
@@ -11,6 +11,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![GCP](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
 ![Linux](https://img.shields.io/badge/-GNU/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=gitlab)&nbsp;
