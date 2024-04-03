@@ -21,8 +21,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/akiffeyzioglu">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=akiffeyzioglu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 <a href="https://linkedin.com/in/akiffeyzioglu"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
