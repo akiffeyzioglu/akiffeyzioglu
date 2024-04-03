@@ -18,7 +18,6 @@
 ![CI/CD](https://img.shields.io/badge/-CI/CD-05122A?style=flat&logo=gitlab)&nbsp;
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=argo)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://linkedin.com/in/akiffeyzioglu"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
